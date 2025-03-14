@@ -2,8 +2,8 @@ import React from "react";
 import Header from "../components/header";
 import Body from "../components/body";
 import Footer from "../components/footer";
-import About from "../components/contenants/aboutus/About";
-import Logos from "../components/contenants/logos/Logos";
+import About from "../components/contenants/about_us/About";
+import Logos from "../components/contenants/logos/logos";
 import { MdKeyboardDoubleArrowRight } from "react-icons/md";
 
 const AboutUs: React.FC = () => {

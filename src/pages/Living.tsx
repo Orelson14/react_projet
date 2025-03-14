@@ -6,7 +6,7 @@ import Tags from "../components/contenants/tags/tags_list";
 import Recent_posts from "../components/contenants/posts/recent_posts";
 import{Container,CItem} from "../components/containers/container"
 import Containers from "../components/containers/containers";
-import { Pagination2 } from "../components/pagination2";
+import { Pagination } from "../components/pagination";
 import Contenants from "../components/contenants/contenants";
 import Footer from "../components/footer";
 import { IoArrowForward } from "react-icons/io5";
